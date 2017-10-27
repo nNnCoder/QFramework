@@ -3,7 +3,7 @@
         {
             "location": "/", 
             "text": "Welcome to QFramework\n\n\n-[ ] this is task\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\nAPI Reference", 
-            "title": "Welcome to QFramework"
+            "title": "Home"
         }, 
         {
             "location": "/#welcome-to-qframework", 
@@ -19,11 +19,6 @@
             "location": "/#api-reference", 
             "text": "", 
             "title": "API Reference"
-        }, 
-        {
-            "location": "/test_gh_page/", 
-            "text": "", 
-            "title": "Test gh page"
         }
     ]
 }
