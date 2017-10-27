@@ -2,23 +2,13 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to MkDocs\n\n\nFor full documentation visit \nmkdocs.org\n.\n\n\nHello World Write Doc is easy;\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\n[API Reference] https://liangxiegame.github.io/QFramework/html/index.html", 
-            "title": "Welcome to MkDocs"
+            "text": "Welcome to QFramework\n\n\n-[ ] this is task\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\n    ...       # Other markdown pages, images and other files.\n\n\n\nAPI Reference", 
+            "title": "Welcome to QFramework"
         }, 
         {
-            "location": "/#welcome-to-mkdocs", 
-            "text": "For full documentation visit  mkdocs.org .", 
-            "title": "Welcome to MkDocs"
-        }, 
-        {
-            "location": "/#hello-world-write-doc-is-easy", 
-            "text": "", 
-            "title": "Hello World Write Doc is easy;"
-        }, 
-        {
-            "location": "/#commands", 
-            "text": "mkdocs new [dir-name]  - Create a new project.  mkdocs serve  - Start the live-reloading docs server.  mkdocs build  - Build the documentation site.  mkdocs help  - Print this help message.", 
-            "title": "Commands"
+            "location": "/#welcome-to-qframework", 
+            "text": "-[ ] this is task", 
+            "title": "Welcome to QFramework"
         }, 
         {
             "location": "/#project-layout", 
@@ -26,9 +16,9 @@
             "title": "Project layout"
         }, 
         {
-            "location": "/#api-reference-httpsliangxiegamegithubioqframeworkhtmlindexhtml", 
+            "location": "/#api-reference", 
             "text": "", 
-            "title": "[API Reference] https://liangxiegame.github.io/QFramework/html/index.html"
+            "title": "API Reference"
         }, 
         {
             "location": "/test_gh_page/", 
