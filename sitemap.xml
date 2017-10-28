@@ -19,6 +19,14 @@
 
     
     <url>
+     <loc>/folder_tree/</loc>
+     <lastmod>2017-10-29</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
      <loc>/test_gh_page/</loc>
      <lastmod>2017-10-29</lastmod>
      <changefreq>daily</changefreq>
