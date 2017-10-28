@@ -9,4 +9,20 @@
     </url>
     
 
+    
+    <url>
+     <loc>/TestForWriteDocuments/</loc>
+     <lastmod>2017-10-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
+     <loc>/test_gh_page/</loc>
+     <lastmod>2017-10-28</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
 </urlset>

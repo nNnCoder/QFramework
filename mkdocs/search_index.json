@@ -19,6 +19,21 @@
             "location": "/#api-reference", 
             "text": "", 
             "title": "API Reference"
+        }, 
+        {
+            "location": "/TestForWriteDocuments/", 
+            "text": "TestForWriteDocuments", 
+            "title": "TestForWriteDocuments"
+        }, 
+        {
+            "location": "/TestForWriteDocuments/#testforwritedocuments", 
+            "text": "", 
+            "title": "TestForWriteDocuments"
+        }, 
+        {
+            "location": "/test_gh_page/", 
+            "text": "", 
+            "title": "Test gh page"
         }
     ]
 }
